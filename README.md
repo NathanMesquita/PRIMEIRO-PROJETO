@@ -14,9 +14,5 @@ Antes de começar, você precisará ter os seguintes itens instalados:
 - Editor de código (Visual Studio, VS Code, etc.)
 
 ## 📂 Estrutura do Projeto
-
-
-
-
-
-
+- PRIMEIRO PROJETO.sln: Arquivo do projeto base utilizado
+- Pasta WinFormsApp1: Possuindo todos os Forms utilizados no projeto
